@@ -1,0 +1,8 @@
+body {
+  width: 300px;
+}
+
+ul {
+  list-style-type: square;
+  list-style-position: outside;
+}

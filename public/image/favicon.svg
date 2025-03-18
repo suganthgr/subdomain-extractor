@@ -1,0 +1,19 @@
+<svg
+    width="150"
+    height="150"
+    viewBox="0 0 24 24"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+>
+    <!-- Background Circle -->
+    <circle cx="12" cy="12" r="10" fill="#2C3E50" />
+
+    <!-- Globe Icon (Represents Domains) -->
+    <circle cx="12" cy="12" r="6" stroke="#F1C40F" stroke-width="1.5" fill="none"/>
+    <path d="M12 6V18M6 12H18" stroke="#F1C40F" stroke-width="1.5"/>
+    <path d="M9 6C9 10 9 14 9 18M15 6C15 10 15 14 15 18" stroke="#F1C40F" stroke-width="1.5"/>
+
+    <!-- Extraction Symbol (Magnifying Glass) -->
+    <circle cx="18" cy="18" r="3" stroke="#E74C3C" stroke-width="1.5" fill="none"/>
+    <line x1="20" y1="20" x2="22" y2="22" stroke="#E74C3C" stroke-width="1.5" />
+</svg>

@@ -1,0 +1,30 @@
+{
+  "name": "subdomain-extractor",
+  "version": "1.0.0",
+  "description": "A Node.js-based subdomain extractor that processes both static and dynamic web pages using Axios for static content and Puppeteer for JavaScript-rendered pages.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suganthgr/subdomain-extractor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suganthgr/subdomain-extractor/issues"
+  },
+  "homepage": "https://github.com/suganthgr/subdomain-extractor#readme",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "express": "^4.21.2",
+    "puppeteer": "^24.4.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
